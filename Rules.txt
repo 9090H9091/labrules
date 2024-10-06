@@ -32,3 +32,4 @@ our services for abuse such as examples (E.G, Making alt accounts to bypass the 
 5. we will be logging messages, Every message will be saved and recorded, Bypassing this by messaging during maintencence willNOT work as there will be other bots tracking
 6. You will consent to allowing us track your messages, what do you keen  to liking, What clubs you participate in ETC
 
+v0.2
